@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.db
+*.log
+test_safe_files/
+safe_user_files/
+user_files/
